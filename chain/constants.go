@@ -5,7 +5,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/ProjectsTask/EasySwapBase/evm/eip"
+	"github.com/junluxie2025/EasySwapBase/evm/eip"
 )
 
 const (

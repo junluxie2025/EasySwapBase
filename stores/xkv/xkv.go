@@ -10,7 +10,7 @@ import (
 	"github.com/zeromicro/go-zero/core/stores/kv"
 	"github.com/zeromicro/go-zero/core/stores/redis"
 
-	"github.com/ProjectsTask/EasySwapBase/kit/convert"
+	"github.com/junluxie2025/EasySwapBase/kit/convert"
 )
 
 const (

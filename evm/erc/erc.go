@@ -3,7 +3,7 @@ package erc
 import (
 	"github.com/pkg/errors"
 
-	"github.com/ProjectsTask/EasySwapBase/evm/erc/erc721"
+	"github.com/junluxie2025/EasySwapBase/evm/erc/erc721"
 )
 
 type Erc interface {

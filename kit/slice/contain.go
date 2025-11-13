@@ -3,7 +3,7 @@ package slice
 import (
 	"reflect"
 
-	mathUtil "github.com/ProjectsTask/EasySwapBase/kit/math"
+	mathUtil "github.com/junluxie2025/EasySwapBase/kit/math"
 )
 
 const (
